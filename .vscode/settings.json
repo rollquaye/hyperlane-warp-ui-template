@@ -1,3 +1,5 @@
+#TEST EDIT
+
 {
   "search.exclude": {
     "**/node_modules/**": true
